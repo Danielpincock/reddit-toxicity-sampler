@@ -68,7 +68,7 @@ def GetSev(rawbadwords, body):
 
 # returns a dictionary of flagged comment objects that contain a sev > 1
 # USE SPARINGLY as avg runtime is over 20 minutes for 1000 posts. 
-def SampleSub(subName='gaming', sampleSize=100):
+def SampleSub(subName='news', sampleSize=10):
 	if __name__ == '__main__':
 		print ("running SearchSub")
 	badwords = {}
