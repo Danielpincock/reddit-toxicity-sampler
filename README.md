@@ -10,9 +10,9 @@ requirements:
 2. Praw python library (pip install praw)
 3. A twitter client id and client secret
 
-<h2> some notes </h2>
-*Depending on the sub, it will take between 20mins to 2.5hrs for 1000 posts.
-  *Subs that i've tested that have extreme running times are:
-    1.r/news
-    2.r/gaming
-    3.r/4chan (Not particularly large but high toxicity)
+###some notes
+* Depending on the sub, it will take between 20mins to 2.5hrs for 1000 posts.
+..* Subs that i've tested that have extreme running times are:
+....1.r/news
+....2.r/gaming
+....3.r/4chan (Not particularly large but high toxicity)
